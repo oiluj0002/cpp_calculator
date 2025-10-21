@@ -1,5 +1,6 @@
-#include <iostream>
 #include "input.h"
+
+#include <iostream>
 
 double getValueFromUser()
 {
